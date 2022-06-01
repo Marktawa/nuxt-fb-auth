@@ -7,7 +7,7 @@ Basic Nuxt.js app that shows how to implement login with a Facebook login provid
 **1 —** Clone this repository and install the dependencies
 ```shell
 git clone git@github.com:Marktawa/nuxt-fb-auth.git
-cd nuxt-fb-auth.git
+cd nuxt-fb-auth
 yarn install
 ```
 
